@@ -635,7 +635,7 @@ section{
     }
 
     .sec-4 .container {
-        width: 700px;
+        width: 500px;
         display: flex;
         justify-content: center; align-items: center;
         padding: 6px;
