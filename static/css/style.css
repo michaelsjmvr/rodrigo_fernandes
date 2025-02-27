@@ -645,7 +645,7 @@ section{
     }
 
     .sec-4 .contact-info {
-        width: 500px;
+        width: 100%;
         text-align: left; /* Ajusta o texto para alinhar à esquerda */
         margin: 0;
         padding: 0;
@@ -667,7 +667,7 @@ section{
     }
 
     .sec-4 .contact-form {
-        width: 500px;
+        width: 100%;
         padding: 0px;
         margin-top: 20px;
     }
