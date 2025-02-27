@@ -635,7 +635,8 @@ section{
     }
 
     .sec-4 .container {
-        width: 500px;
+        width: 100%;
+        max-width: 700px;
         display: flex;
         justify-content: center; align-items: center;
         padding: 6px;
@@ -688,6 +689,11 @@ section{
     .mobile {
         display: flex;
         width: 100%;
+    }
+
+    html, body {
+        width: 100%;
+        overflow-x: hidden; /* Evita barra de rolagem horizontal */
     }
 
 }
