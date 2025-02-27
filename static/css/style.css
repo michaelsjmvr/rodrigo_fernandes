@@ -473,6 +473,7 @@ section{
     }
 
     .sec-2 {
+        width: 100%;
         flex-direction: column; /* Layout em coluna no mobile */
         padding: 40px 5%; /* Menos padding em dispositivos móveis */
         gap: 30px; /* Reduz a distância entre a imagem e o texto */
@@ -628,7 +629,7 @@ section{
     }
 
     .sec-4 .container {
-        width: 700px;
+        width: 100%;
         display: flex;
         justify-content: center; align-items: center;
         padding: 6px;
@@ -679,7 +680,7 @@ section{
     }
 
     .mobile {
-        display: none;
+        display: flex;
         width: 100%;
     }
 
