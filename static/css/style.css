@@ -679,8 +679,8 @@ section{
     }
 
     .mobile {
-        width: 100vw; /* Garante que fique dentro da tela */
-        max-width: 100%;
+        width: 100%;
+        max-width: 100vw;
         display: flex; /* Exibir menu mobile */
         max-width: 100vw; /* Evita que o menu ultrapasse a largura da tela */
         overflow-x: hidden; /* Esconde qualquer conteúdo que vaze */
