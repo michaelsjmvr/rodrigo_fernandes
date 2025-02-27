@@ -419,7 +419,6 @@ section{
             font-size: 18px;
             border-bottom: 1px solid #ddd;
             display: flex;
-            justify-content: center;
         }
         
         & a:hover {
