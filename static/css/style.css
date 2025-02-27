@@ -628,6 +628,12 @@ section{
         cursor: pointer;
     }
 
+    .sec-4{
+        width: 100%;
+        margin: 0;
+        padding: 6px;
+    }
+
     .sec-4 .container {
         width: 100%;
         display: flex;
