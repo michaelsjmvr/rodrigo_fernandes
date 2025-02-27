@@ -410,9 +410,7 @@ section{
         width: 100%;
         z-index: 100;
         text-align: center;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        justify-content: center;
-        align-items: center;        
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);      
 
         & a {
             color: #fff;
@@ -420,7 +418,7 @@ section{
             padding: 15px;
             font-size: 18px;
             border-bottom: 1px solid #ddd;
-            display: block;
+            display: flex;
         }
         
         & a:hover {
