@@ -645,7 +645,7 @@ section{
     }
 
     .sec-4 .contact-info {
-        width: 100%;
+        width: 500px;
         text-align: left; /* Ajusta o texto para alinhar à esquerda */
         margin: 0;
         padding: 0;
